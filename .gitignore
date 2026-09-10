@@ -1,0 +1,31 @@
+# Vivado project and generated output
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.rpt
+*.rpx
+*.dcp
+*.vds
+*.wdb
+*.wcfg
+*.backup
+
+# Vivado generated project directories
+HDMI_Output.cache/
+HDMI_Output.hw/
+HDMI_Output.ip_user_files/
+HDMI_Output.sim/
+HDMI_Output.runs/
+
+# Generated files inside source trees
+HDMI_Output.srcs/sources_1/bd/*/hw_handoff/
+HDMI_Output.srcs/sources_1/bd/*/synth/
+HDMI_Output.srcs/sources_1/bd/*/sim/
+HDMI_Output.srcs/sources_1/bd/*/ip/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
