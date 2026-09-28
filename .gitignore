@@ -29,3 +29,6 @@ HDMI_Output.srcs/sources_1/bd/*/ip/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Local documentation draft
+Docs/post_linkedin_02.txt
